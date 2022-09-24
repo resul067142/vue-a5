@@ -1,0 +1,20 @@
+<template>
+    <div>
+        <div class="icerik"> <img src="../assets/img/beyaz.jpg" class="rsm" width="100%" height="auto" alt=""/>
+        <h5>BEYAZPERÇEM</h5>
+        <p class="iceriktext">Ankara takla güvercinlerinin, diğer takla türlerine göre en önemli özelliği, yukarıda ifade edildiği üzere “performansı”dır. Performanstan kasıt uçma süresi, konmak amacıyla yere yaklaşma sıklığı, her yaklaşma sonrası, ayakları tam yere değecekken konamadan yeniden tırmanışa geçme (fışkırma) sayısı, fışkırmanın dikliği, fışkırma sürecinde atılan taklaların çokluğu ve kalitesidir. Zira, öteki takla ırklarının aksine Ankara güvercinlerinin taklaları arasında çok az bir zaman dilimi vardır ve çok daha sıkı takla atarlar. Her takladan sonra hafif (çoğu zaman dikkati çekmeyecek kadar) bir yükseklik kaybedip tekrar tırmanışa çıkarlar (fışkırma). Tırmanışı öteki ırklara göre biraz daha kısa fakat daha fazla kombinasyonla (her takla atıp tırmanışa bir kombinasyon dersek) doludur.</p>
+        <a href="#" class="btndevam">Devamını Oku..</a></div>
+      <div class="icerik"> <img src="../assets/img/beyaz2.jpeg" class="rsm" width="100%" height="auto" alt=""/>
+        <h5>GÖKBENEKLİ AKKUYRUK</h5>
+        <p class="iceriktext">Ankara takla güvercinlerinin, diğer takla türlerine göre en önemli özelliği, yukarıda ifade edildiği üzere “performansı”dır. Performanstan kasıt uçma süresi, konmak amacıyla yere yaklaşma sıklığı, her yaklaşma sonrası, ayakları tam yere değecekken konamadan yeniden tırmanışa geçme (fışkırma) sayısı, fışkırmanın dikliği, fışkırma sürecinde atılan taklaların çokluğu ve kalitesidir. Zira, öteki takla ırklarının aksine Ankara güvercinlerinin taklaları arasında çok az bir zaman dilimi vardır ve çok daha sıkı takla atarlar. Her takladan sonra hafif (çoğu zaman dikkati çekmeyecek kadar) bir yükseklik kaybedip tekrar tırmanışa çıkarlar (fışkırma). Tırmanışı öteki ırklara göre biraz daha kısa fakat daha fazla kombinasyonla (her takla atıp tırmanışa bir kombinasyon dersek) doludur.</p>
+        <a href="#" class="btndevam">Devamını Oku..</a></div>
+      <div class="icerik"> <img src="../assets/img/beyaz3.jpg" class="rsm" width="100%" height="auto" alt=""/>
+        <h5>BOZBENEKLİ AKKUYRUK</h5>
+        <p class="iceriktext">Ankara takla güvercinlerinin, diğer takla türlerine göre en önemli özelliği, yukarıda ifade edildiği üzere “performansı”dır. Performanstan kasıt uçma süresi, konmak amacıyla yere yaklaşma sıklığı, her yaklaşma sonrası, ayakları tam yere değecekken konamadan yeniden tırmanışa geçme (fışkırma) sayısı, fışkırmanın dikliği, fışkırma sürecinde atılan taklaların çokluğu ve kalitesidir. Zira, öteki takla ırklarının aksine Ankara güvercinlerinin taklaları arasında çok az bir zaman dilimi vardır ve çok daha sıkı takla atarlar. Her takladan sonra hafif (çoğu zaman dikkati çekmeyecek kadar) bir yükseklik kaybedip tekrar tırmanışa çıkarlar (fışkırma). Tırmanışı öteki ırklara göre biraz daha kısa fakat daha fazla kombinasyonla (her takla atıp tırmanışa bir kombinasyon dersek) doludur.</p>
+        <a href="#" class="btndevam">Devamını Oku..</a></div>
+      <div class="icerik"> <img src="../assets/img/a (8).jpg" class="rsm" width="100%" height="auto" alt=""/>
+        <h5>KAGIT BOZ</h5>
+        <p class="iceriktext">Ankara takla güvercinlerinin, diğer takla türlerine göre en önemli özelliği, yukarıda ifade edildiği üzere “performansı”dır. Performanstan kasıt uçma süresi, konmak amacıyla yere yaklaşma sıklığı, her yaklaşma sonrası, ayakları tam yere değecekken konamadan yeniden tırmanışa geçme (fışkırma) sayısı, fışkırmanın dikliği, fışkırma sürecinde atılan taklaların çokluğu ve kalitesidir. Zira, öteki takla ırklarının aksine Ankara güvercinlerinin taklaları arasında çok az bir zaman dilimi vardır ve çok daha sıkı takla atarlar. Her takladan sonra hafif (çoğu zaman dikkati çekmeyecek kadar) bir yükseklik kaybedip tekrar tırmanışa çıkarlar (fışkırma). Tırmanışı öteki ırklara göre biraz daha kısa fakat daha fazla kombinasyonla (her takla atıp tırmanışa bir kombinasyon dersek) doludur. </p>
+        <a href="#" class="btndevam">Devamını Oku..</a></div>
+    </div>
+</template>

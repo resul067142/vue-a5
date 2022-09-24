@@ -1,33 +1,41 @@
 <template>
-  <div id="app">
-    <nav>
-      <router-link to="/">Home</router-link> |
-      <router-link to="/posts">Post</router-link> |
-      <router-link to="/about">About</router-link>
-    </nav>
-    <router-view/>
+  <div>
+    <Header />
+
+    <div id="container">
+      <Sidebar />
+      <section>
+        <Navbar />
+
+        <main>
+          <!-- değişen alan -->
+          <router-view />
+        </main>
+
+      </section>
+      <Footer>  </Footer>
+    </div>
   </div>
 </template>
 
-<style lang="scss">
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
 
-nav {
-  padding: 30px;
+<script>
+import Header from './shared/Header.vue';
+import Sidebar from './shared/Sidebar.vue';
+import Navbar from './shared/Navbar.vue';
+import Footer from './shared/Footer.vue';
 
-  a {
-    font-weight: bold;
-    color: #2c3e50;
-
-    &.router-link-exact-active {
-      color: #42b983;
-    }
+export default {
+  components: {
+    Header,
+    Sidebar,
+    Navbar,
+    Footer
   }
 }
+</script>
+
+
+<style lang="scss">
+
 </style>
